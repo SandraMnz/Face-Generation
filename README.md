@@ -1,6 +1,6 @@
 # Face Generation
 
-In this project, you'll use generative adversarial networks to generate new images of faces.
+In this project, I use generative adversarial networks to generate new images of faces.
 
 [![Sample Output](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-face-generation/assets/processed_face_data.png)](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-face-generation/assets/processed_face_data.png)
 
