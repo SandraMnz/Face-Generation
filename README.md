@@ -1,5 +1,7 @@
 # Face Generation
 
+This is a repo for a project in Deep Learning udacity Nanodegree.
+
 In this project, I use generative adversarial networks to generate new images of faces.
 
 [![Sample Output](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-face-generation/assets/processed_face_data.png)](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/project-face-generation/assets/processed_face_data.png)
